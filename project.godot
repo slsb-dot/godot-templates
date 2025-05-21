@@ -13,6 +13,7 @@ config_version=5
 config/name="basic-templates"
 config/features=PackedStringArray("4.4", "GL Compatibility")
 config/icon="res://icon.svg"
+config/tags=PackedStringArray("template")
 
 [rendering]
 
